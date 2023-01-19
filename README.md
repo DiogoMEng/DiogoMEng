@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Diogo Mello 👋
 
-- 🔭 Busco trabalhar com back-end
+- 🔭 Busco trabalhar com Front-End
 - 🌱 Estudando JavaScript
 - ✉️ Contate-me pelo email: diogoeng19@gmail.com
 
