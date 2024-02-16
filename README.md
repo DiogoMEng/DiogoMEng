@@ -16,6 +16,5 @@
 
 # 📱 Redes Sociais
 
-<div style="display: inline_block">
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
