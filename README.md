@@ -16,9 +16,6 @@
 
 # 📱 Redes Sociais
 
-<a href="https://twitter.com/danielhendricks/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Twitter" title="Twitter" width="50" height="50" />
-</a>
-<a href="https://twitter.com/danielhendricks/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/g-mail.png" alt="Twitter" title="Twitter" width="50" height="50" />
+<a href="www.linkedin.com/in/diogo-meng">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="50" height="50" />
 </a>
