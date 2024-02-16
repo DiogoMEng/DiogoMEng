@@ -1,4 +1,4 @@
-### Olá! Eu sou o Diogo Mello 👋
+# Olá! Eu sou o Diogo Mello 👋
 
 - 🔭 Busco trabalhar com Back-end
 - 🌱 Estudando JavaScript
@@ -10,14 +10,13 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMEng&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 👨🏻‍💻 Tecnologias
+# 👨🏻‍💻 Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,java)](https://skillicons.dev)
 
-##
+# 📱 Redes Sociais
 
 <div style="display: inline_block"><br>
-  <a href="https://instagram.com/diogo_d16" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diogoeng19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino            ="_blank"></a>
   <a href="https://www.linkedin.com/in/diogo-mello-b63585209" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
