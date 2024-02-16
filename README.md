@@ -16,6 +16,6 @@
 
 # 📱 Redes Sociais
 
-<a href="www.linkedin.com/in/diogo-meng">
+<a href="https://www.linkedin.com/in/diogo-meng">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="50" height="50" />
 </a>
