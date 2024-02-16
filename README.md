@@ -10,9 +10,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMEng&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 👨🏻‍💻 Linguagens
+## 👨🏻‍💻 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,html,css,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)
 
 ##
 
