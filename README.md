@@ -16,8 +16,6 @@
 
 # 📱 Redes Sociais
 
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-/>
-<i class="ci ci-spotify ci-2x"></i>
+<a href="https://twitter.com/danielhendricks/">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+</a>
