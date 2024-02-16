@@ -20,5 +20,5 @@
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Twitter" title="Twitter" width="50" height="50" />
 </a>
 <a href="https://twitter.com/danielhendricks/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/email.png" alt="Twitter" title="Twitter" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/hotmail.png" alt="Twitter" title="Twitter" width="50" height="50" />
 </a>
