@@ -12,7 +12,7 @@
 
 ## 👨🏻‍💻 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,java)](https://skillicons.dev)
 
 ##
 
