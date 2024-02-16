@@ -16,5 +16,7 @@
 
 # 📱 Redes Sociais
 
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
+/>
