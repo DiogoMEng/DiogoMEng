@@ -49,8 +49,8 @@ Desenvolvo APIs RESTful e serviços de back-end com Node.js e TypeScript, com fo
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DiogoMEng&show_icons=true&theme=default&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMEng&layout=compact&hide_border=true)
 
 </div>
 
