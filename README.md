@@ -52,7 +52,7 @@ Desenvolvo APIs RESTful e serviços de back-end com Node.js e TypeScript, com fo
 
 ### 🎯 Atualmente focado em
 
-- Arquitetura de microsserviços com NestJS e Docker
+- WebSockets: Comunicação em Tempo Real utilizando Socket.IO
 
 ### 📊 Estatísticas
 
